@@ -1,0 +1,1 @@
+"use strict"; var hello = "Hello world!"; function bang() { post(hello) }

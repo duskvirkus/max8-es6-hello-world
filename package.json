@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-max-js",
+  "version": "0.0.1",
+  "description": "Using ES6 in Max 8 with babel and grunt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fi Graham",
+  "license": "MIT"
+}
